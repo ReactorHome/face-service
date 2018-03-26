@@ -1,0 +1,16 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+.floo
+.flooignore
+__pycache__/
+
+# Mac
+.DS_Store
+ 
+# Maven
+log/
+target/
+src/main/resources/
+
